@@ -9,5 +9,5 @@ echo #     # #     # #     #    #     # #       #     #  #  #       #     # #
 echo ######   #####   #####     #     # ####### ######  ### #       ####### #######
 echo 
 
-"C:\Users\woosal\anaconda3\python.exe" "C:\Users\woosal\Desktop\main.py"
+"C:\Users\Muhabermis\anaconda3\python.exe" "C:\Users\Muhabermis\Desktop\main.py"
 pause
